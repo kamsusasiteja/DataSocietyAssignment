@@ -10,6 +10,6 @@
 
 ### Present the “temperature” value for “Wednesday Night” at the input location
 
-Your chosen tools will dictate your presentation method, but the key to this requirement is that the end-user receives the resulting forecast data. 
-This could be done via a dynamic web page, command-line output, etc.
-Along with the source code, include a README.md file in Markdown format which documents your solution and how to use it. Deliver the application via shared git repository (e.g. GitHub, BitBucket).
+- Your chosen tools will dictate your presentation method, but the key to this requirement is that the end-user receives the resulting forecast data. 
+- This could be done via a dynamic web page, command-line output, etc.
+- Along with the source code, include a README.md file in Markdown format which documents your solution and how to use it. Deliver the application via shared git repository (e.g. GitHub, BitBucket).
