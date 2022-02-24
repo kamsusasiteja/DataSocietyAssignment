@@ -36,8 +36,27 @@
 - South San Francisco, CA, USA      37.662937 , -122.433014
 - San Marino, CA, USA               34.121300 , -118.132607
 
-#### Screenshots of the web application
+### Screenshots of the web application
 
 #### When you open the webpage, this is how you'll find it.
 
 ![firstpage](/images/firstpage.PNG)
+
+#### Enter latitude and longitude and click on "Get weather details"
+
+![secondpage](/images/secondpage.PNG)
+
+#### The output screen when you give the correct latitude and longitude as specified in SRS.
+
+![thirdpage](/images/thirdpage.PNG)
+
+#### Let's say you type false latitude and longitude( That don't exist/ That which do not exist in the API used )
+
+![wrong details](/images/wrongdetails.PNG)
+
+#### The output screen when you type wrong details.
+
+![ifwrong](/images/ifwrong.PNG)
+
+
+
