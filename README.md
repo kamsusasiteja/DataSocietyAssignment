@@ -36,4 +36,8 @@
 - South San Francisco, CA, USA      37.662937 , -122.433014
 - San Marino, CA, USA               34.121300 , -118.132607
 
+#### Screenshots of the web application
 
+#### When you open the webpage, this is how you'll find it.
+
+![firstpage](/images/firstpage.png)
