@@ -17,6 +17,9 @@
 #### Tech Stack 
 - Frontend : HTML,CSS,JS,BOOTSTRAP
 - Backend : Flask(Python)
+- Deployed using Heroku
+
+#### Web Application URL : https://datasocietywebapp.herokuapp.com/
 
 #### Features included in the application
 
