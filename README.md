@@ -40,4 +40,4 @@
 
 #### When you open the webpage, this is how you'll find it.
 
-![firstpage](/images/firstpage.png)
+![firstpage](/images/firstpage.PNG)
