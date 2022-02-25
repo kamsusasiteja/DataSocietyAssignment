@@ -28,7 +28,7 @@
 
 #### Here are some latitudes and longitudes of the cities in US(United States) that can be used to test the web page by the user.
 
-- Fort Valley, GA, USA              32.559334 , 83.904587
+- Fort Valley, GA, USA              32.559334 , -83.904587
 - Douglas, GA, USA                  31.504131 , -82.867790
 - Darien, GA, USA                   31.375116 , -81.436729
 - Brunswick, GA, USA                31.164404 , -81.505600
