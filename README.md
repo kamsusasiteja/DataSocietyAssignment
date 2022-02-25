@@ -15,7 +15,7 @@
 - Along with the source code, include a README.md file in Markdown format which documents your solution and how to use it. Deliver the application via shared git repository (e.g. GitHub, BitBucket).
 
 #### Tech Stack 
-- Frontend : HTML,CSS,JS,BOOTSTRAP
+- Frontend : HTML,CSS,BOOTSTRAP
 - Backend : Flask(Python)
 - Deployed using Heroku
 
